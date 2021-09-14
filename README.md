@@ -17,7 +17,16 @@ This repository contains materials and files associated with a coverage study of
     7. Oikeus: mappings to the [Oikeus ontology - v2013-06-10](https://databus.dbpedia.org/ontologies/purl.org/finlex--schema--oikeus)
 
 ### License
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.ast)
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ### Authors
 [Kody Moodley](https://www.maastrichtuniversity.nl/kody.moodley), [Ruta Liepina](https://www.maastrichtuniversity.nl/p70067150), [Rohan Nanda](https://www.maastrichtuniversity.nl/p70070981), [Matthias van der Haegan](https://www.maastrichtuniversity.nl/p70067255)
