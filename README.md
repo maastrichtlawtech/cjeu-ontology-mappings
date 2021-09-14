@@ -6,6 +6,7 @@ This repository contains materials and files associated with a coverage study of
 
 ### File descriptions
 
++ LICENSE (terms of reuse for the materials in this repository)
 + README.md (this file)
 + mappingfile.xslx (file containing the results of the study), this spreadsheet consists of seven subsheets:
     1. "selected properties": descriptions of the selected properties to map to legal ontologies
