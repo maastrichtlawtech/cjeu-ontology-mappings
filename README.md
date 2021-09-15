@@ -1,4 +1,5 @@
-## Legal ontology coverage study: CJEU case law properties
+## Legal ontology coverage study: CJEU case law properties [![DOI](https://zenodo.org/badge/406498776.svg)](https://zenodo.org/badge/latestdoi/406498776)
+
 
 [<img src="https://peacepalacelibrary.nl/sites/default/files/styles/featured_image/public/2020-05/EUR-Lex_0.jpg" alt="eurlex" title="eurlex" />](http://eur-lex.europa.eu/homepage.html)
 
